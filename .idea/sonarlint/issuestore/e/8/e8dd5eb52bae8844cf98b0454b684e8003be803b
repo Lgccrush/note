@@ -1,0 +1,9 @@
+
+O	java:S125"<This block of commented-out lines of code should be removed.(’Ë³é
+˜
+java:S1130"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(­¥ù’øÿÿÿÿ
+
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "encoded".(ğ®ëôüÿÿÿÿ8³¦¦¯.
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(›¹şÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(çğ…
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ûµñ¹şÿÿÿÿ

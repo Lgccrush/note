@@ -1,0 +1,13 @@
+
+^
+java:S1128"<Remove this unused import 'com.sun.deploy.net.HttpResponse'.(¼İ²çûÿÿÿÿ8Ÿ·Ğ°.
+^
+java:S1128"ARemove this unused import 'org.springframework.http.HttpRequest'.(ÌÖÁÛ8Ÿ·Ğ°.
+[
+java:S3752&">Add a "method" parameter to this "@RequestMapping" annotation.(ôµ€8Ÿ·Ğ°.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÈÆÂ¦8Ÿ·Ğ°.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ÿ·Ğ°.
+`
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Öó¨øıÿÿÿÿ8Ÿ·Ğ°.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(¼İ²çûÿÿÿÿ8Ÿ·Ğ°.
